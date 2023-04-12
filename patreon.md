@@ -1,2 +1,2 @@
-PATREONS
-PACKER WAS HERE
+No Patreons... yet!
+Be the first: https://patreon.com/PackerB
