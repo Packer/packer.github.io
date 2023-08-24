@@ -1,7 +1,6 @@
 # "Packer" Glenn B. 
 Indie Game developer
 ### [packer.github.io](https://packer.github.io "packer.github.io")
-### [Patreon](https://patreon.com/PackerB "Patreon PackerB")
 
 
 # Projects
