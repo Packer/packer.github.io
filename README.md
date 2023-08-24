@@ -1,4 +1,4 @@
-# "Packer" Glenn B. 
+# Glenn "Packer" B. 
 Indie Game developer
 ### [packer.github.io](https://packer.github.io "packer.github.io")
 
